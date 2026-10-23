@@ -6,6 +6,7 @@ matching what you're up for with what is available to watch.
 **Explore MomoMovies: [momomovies.app](https://momomovies.app)**
 
 <img width="898" height="750" alt="Momo Movies Discover page, Involvement set to Engaging or Intense with the Film Snob reputation filter active" src="https://github.com/user-attachments/assets/85369554-721e-4427-a57b-84b1f0ed7cef" />
+
 *Start with the kind of viewing experience you want right now.*
 
 ## The idea
@@ -71,10 +72,12 @@ choose something that fits the moment.
 
 
 <img width="933" height="729" alt="Momo Movies Discover page with the Safe Bet preset selected and a title preview open, showing awards recognition, audience reception, streaming availability, and the Hide, rate, and Stash actions" src="https://github.com/user-attachments/assets/1f4c120b-911e-4404-885f-84380967b823" />
+
 *Same page, different quickset: Safe Bet this time, with a title preview open. The preview shows recognition, reception, availability, and when signed in adds the quick actions Hide, rate, and Stash.*
 
 <img width="934" height="730" alt="Momo Movies results grid: film cards with poster, title, director, lead actors, year, and runtime, narrowed by the active filters shown at the bottom — Contemporary, under 2 hours 10 minutes, free to watch, unanimous praise, Light or Engaging." src="https://github.com/user-attachments/assets/cc192b93-9bd3-41e1-8027-afa29fee14a4" />
-*Explore the resulting selection of films.* 
+
+*Explore the resulting selection of films, with options to sort, change the display, or narrow it to the Highlights.* 
 
 ## Status
 
