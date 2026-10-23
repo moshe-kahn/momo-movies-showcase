@@ -51,6 +51,9 @@ choose something that fits the moment.
 - **Viewing intensity:** Films receive a 1.0 to 3.0 involvement score
   through a combination of manual curation and calibrated estimates.
   Those scores power the Involvement filter.
+- **Selection responsiveness:** A preview bar at the bottom updates as you 
+  change your selections, so the effect of each choice is visible 
+  immediately, before you commit to browsing the results.
 
 ## Design challenges
 
