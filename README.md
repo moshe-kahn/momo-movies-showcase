@@ -84,6 +84,8 @@ choose something that fits the moment.
 MomoMovies is live and in active development. Designed by Moshe Kahn
 and built with an AI-assisted development workflow using Codex.
 
+Development history: [CHANGELOG.md](CHANGELOG.md)
+
 The source code remains private while the app is being built; this
 repository is its public showcase. MomoMovies is part of
 [The Moments Collection](https://kahntra.com/), a body of
